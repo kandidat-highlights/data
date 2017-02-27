@@ -1,1 +1,0 @@
-This dataset was created by taking top 5000 users and exchanging the usernames to one of the top 5 users in the list ['izzycat', 'crmaki', 'Ayavaron', 'akkartik', 'doctorgonzo']
