@@ -1,0 +1,1 @@
+# Data created from original file by only taking words from titles. 100 dimensions to represent each word
