@@ -1,0 +1,1 @@
+Holds top 50 users along with the title and subreddits. Only upvotes are considered in this dataset.
